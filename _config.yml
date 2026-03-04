@@ -1,6 +1,17 @@
 title: Aging Health
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
+title: "Aging Health"
+description: "Clear, senior-friendly health insights"
+theme: "just-the-docs"
+
+url: "https://tomglo10.github.io"
+baseurl: "/AG"
+
+aux_links:
+  "Template Repository":
+    - "https://github.com/just-the-docs/just-the-docs-template"
+
 
 url: https://github.com/tomglo10/AG
 
