@@ -10,3 +10,4 @@ Clear, senior‑friendly health insights presented in a simple, trustworthy form
 
 Use the sidebar to explore topics, guides, and resources.
 
+
